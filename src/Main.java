@@ -20,6 +20,5 @@ public class Main {
         System.out.println("Ortalamanız: " + ortalama);
         boolean gectiKaldi = ortalama >= 60;
         System.out.println(gectiKaldi ? "Sınıfı Geçti." : "Sınıfta Kaldı.");
-
     }
 }
